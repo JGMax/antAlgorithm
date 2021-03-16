@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="xchart">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/libs/xchart-3.8.0" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/libs/xchart-3.8.0" recursive="false" />
+  </library>
+</component>
