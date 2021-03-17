@@ -54,7 +54,7 @@ class Colony {
                         if (ant.pathLength == globalMinLen && pathIds.contentEquals(globalMinPathIds)) {
                             samePathCount++
                         }
-                        println("ant.Ant <${ant.id}> finished")
+                        println("Ant <${ant.id}> finished")
 
                         delay(2)
                     })

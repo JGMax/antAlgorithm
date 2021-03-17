@@ -12,7 +12,7 @@ object Constants {
     val LOCAL_MIN_LINE_COLOR: Color = Color(98, 148, 248)
 
     const val ALPHA: Double = 1.0
-    const val BETA: Double = 1.5
+    const val BETA: Double = 1.45
 
     const val POPULATION: Int = 2000
     const val ELITE_POPULATION: Int = 0
