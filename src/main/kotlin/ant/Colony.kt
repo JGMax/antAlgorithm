@@ -36,7 +36,6 @@ class Colony {
         time = System.currentTimeMillis()
     }
 
-    //todo refactor
     fun findWay() {
         while (System.currentTimeMillis() - time < STOP_TIME_MILLIS
             || STOP_TIME_MILLIS == -1) {
